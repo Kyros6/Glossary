@@ -276,11 +276,11 @@ Acronym for Corporate Social Responsibility. A company's non-profit effort or st
 
 ## CTA
 
-Acronym for Call to Action **.** _See Call to Action._
+Acronym for Call to Action. _See Call to Action._
 
 ## Customer journey
 
-_see Buyer's journey._
+_See Buyer's journey._
 
 ## Customer/client
 
@@ -506,23 +506,23 @@ The process of finding out what impression the image has on a particular person/
 
 The purchasing of ad space in the mainstream, and non-mainstream media. It is one of the many services offered by an agency.
 
-**Media**** House**
+## Media House
 
 A company that specialises in developing relationships with the media and details concerning rates, availability, and suitability of ad space in the media landscape.
 
-**Media**** kit**
+## Media kit
 
 A collection of materials relating to a company that is distributed to members of the media that will help them find out more about the company. Useful for new companies or companies that have undergone a significant change internally and wish to present their new identity to the market. A kit may also include samples of the campaign's offerings (depending on the sector) to help journalists get acquainted with the products.
 
-**Media**** mix**
+## Media mix
 
 The collection of outlets (media) chosen to host a campaign or message. Depending on the message and the intended target audience, a good selection of outlets, i.e. a good media mix, will improve reach. For example, a new product campaign might include a TV ad, a web banner, and radio adverts. Thus the product mix consists of three types of outlets: TV, Web, and Radio.
 
-**Media**** plan**
+# Media plan
 
 The part of a marketing strategy which describes how the various available outlets will be used in order to successfully promote the intended message. The process takes into account the media format, audience composition, and message that will be used.
 
-**Media**** push ****rights**
+# Media push rights
 
 Usually encountered in social media agreements. Refers to the agreement between two parties where one allows the other to "push" its proprietary media/content, i.e. redistribute or publish it through the latter's profiles or platforms.
 
@@ -558,7 +558,7 @@ Notation that is taken during meetings that outline the talking points, future t
 
 An assortment of text, fonts, visuals, colours, and other items that are representative of the direction of a creative project, for example, what a print ad might look like or a set for a shoot might look like. The assorted items are collected to act as inspiration for developing the first prototype/mockup/example that will be presented to the client.
 
-**Motion Designer**
+# Motion Designer
 
 Another term used for Video Editor. _See Video Editor._
 
@@ -578,11 +578,9 @@ Outlets that target a particular audience and focus on a specific topic. Contras
 
 ## Non paper
 
-_see Aide-mémoire_
+_See Aide-mémoire_
 
 # O
-
-##
 
 
 ## Off the record
