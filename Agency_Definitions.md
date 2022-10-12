@@ -13,7 +13,7 @@ An expression describing an advertising strategy which uses mainstreammedia for 
 
 ## Account
 
-Α company, brand, or individual that the [agency](#Agency) represents and offers its services. Whenever the agency signs a contract with a client it "opens an account" for them where it offers its various services at their disposal.
+Α company, brand, or individual that the agency represents and offers its services. Whenever the agency signs a contract with a client it "opens an account" for them where it offers its various services at their disposal.
 
 ## Activation
 
